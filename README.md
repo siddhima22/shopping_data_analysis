@@ -69,7 +69,6 @@ Run the analysis notebook:
 
 jupyter notebook shopping_trends_analysis.ipynb
 
-
 📌 Conclusion
 
 This project provides valuable insights into shopping behaviors, helping businesses and researchers make data-driven decisions. Future enhancements may include deeper ML models for predictive analytics and interactive dashboards.
