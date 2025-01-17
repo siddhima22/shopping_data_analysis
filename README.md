@@ -59,7 +59,7 @@ Shipping Details (shipping type, delivery time)
 
 Clone the repository:
 
-git clone https://github.com/yourusername/shopping-trends-analysis.git
+git clone https://github.com/siddhima22/shopping_data_analysis.git
 
 Install dependencies:
 
