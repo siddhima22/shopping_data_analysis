@@ -25,7 +25,7 @@ This project aims to analyze shopping trends using a dataset that includes custo
 
 🎟️ Promo Code Usage: Analyze if promo code users spend more than non-users.
 
-👶🧓 Age-Based Purchases: See how purchase frequency varies among different age groups.
+🧓 Age-Based Purchases: See how purchase frequency varies among different age groups.
 
 🚚 Shipping Preferences: Find out which shipping types are preferred for various products.
 
@@ -61,13 +61,6 @@ Clone the repository:
 
 git clone https://github.com/siddhima22/shopping_data_analysis.git
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the analysis notebook:
-
-jupyter notebook shopping_trends_analysis.ipynb
 
 📌 Conclusion
 
